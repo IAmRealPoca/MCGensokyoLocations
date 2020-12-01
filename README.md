@@ -1,8 +1,8 @@
-# MCGensokyoLocations
-Locations of Yukkuri Craft's Gensokyo map
+# MC Gensokyo Locations
+## Locations of Yukkuri Craft's Gensokyo map
 
 
-#Overworlds
+# Overworlds
 Gap realm			625 58 -217
 The Gap				596 101 -213
 
@@ -10,6 +10,7 @@ Human village 			78 70 -124
 Aki sister farm 		-1309 79 -466
 shop along road of limitary 	-1757 69 -288
 
+### Bamboo Forest Related
 bamboo forest 			204 94 337
 	someone's house	53 83 790
 	mokou stand			196 72 486
@@ -32,6 +33,7 @@ great masoleum 			-444 69 274
 cirno house 			-913 87 -294
 mysti lake 			-716 75 -345
 
+#SDM Related
 SDM 				-807 85 -450
 SDM library 			-880 99 -704
 the rocket 			-883 33 -816
@@ -63,14 +65,14 @@ Mayohiga	 		311 69 -1064
 
 Shinning Needle Caste -132 91 763
 
-secret			 579 90 -231
+secret			 	579 90 -231
 
-Higan -2172 100 -412
+Higan 				-2172 100 -412
 
-#Go to The End first
+# Go to The End first
 Lunar capital secret base 308 80 -387
 
-#Go to Nether first
-Makai  -280,65,970 
+# Go to Nether first
+Makai 			 -280 65 970 
 
 
