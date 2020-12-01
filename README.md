@@ -65,7 +65,7 @@ secret	|		 	579 90 -231
 Higan 	|			-2172 100 -412
 Gap realm | 625 58 -217
 The Gap | 596 101 -213
-(&#4eba)(&#9593)(&#306e)((&#91cc) | 78 70 -124
+&#4eba; &#9593; &#306e; &#91cc; | 78 70 -124
 Aki sister farm | -1309 79 -466
 shop along road of limitary |	-1757 69 -288
 
