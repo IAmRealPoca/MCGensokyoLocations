@@ -72,7 +72,7 @@ shop along road of limitary |	-1757 69 -288
 # Go to The End first
 Location Name | Coordinates (X, Y, Z)
 ------------ | -------------
-Lunar capital secret | base 308 80 -387
+Lunar capital secret base | 308 80 -387
 
 # Go to Nether first
 Location Name | Coordinates (X, Y, Z)
