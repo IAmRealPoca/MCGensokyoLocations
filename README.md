@@ -1,27 +1,19 @@
 # MC Gensokyo Locations
 ##### Locations of Yukkuri Craft's Gensokyo map
 
-### Overworlds
-
-Location Name | Coordinates (X, Y, Z)
------------- | -------------
-Gap realm | 625 58 -217
-The Gap | 596 101 -213
-Human village | 78 70 -124
-Aki sister farm | -1309 79 -466
-shop along road of limitary |	-1757 69 -288
+## Overworlds
 
 ### Bamboo Forest Related
 Location Name | Coordinates (X, Y, Z)
 ------------ | -------------
- bamboo forest |			204 94 337
-	 someone's house 1 |	53 83 790
-	 mokou stand |			196 72 486
-	 eientei	|			230 70 704
-	 		 [eientei] infinite corridor head | -1998 40 824
-     		 [eientei] inf corridor end |	661 42 822
-     		 [eientei] way 	|		518 76 822
-	 someone's house 2	|		523 71 755
+bamboo forest |			204 94 337
+someone's house 1 |	53 83 790
+mokou stand |			196 72 486
+eientei	|			230 70 704
+[eientei] infinite corridor head | -1998 40 824
+[eientei] inf corridor end |	661 42 822
+[eientei] way 	|		518 76 822
+someone's house 2	|		523 71 755
 ### Youkai Mountain Related
 Location Name | Coordinates (X, Y, Z)
 ------------ | -------------
@@ -43,7 +35,7 @@ the rocket 	|		-883 33 -816
 the real library |		-808 37 -897
 clock room 	|		-830 2 -1081
 SDM basement |			-742 91 -719
-	 strange place | -828 76 -728
+strange place | -828 76 -728
 		
 		
 ### Misc
@@ -71,6 +63,11 @@ Mayohiga	| 		311 69 -1064
 Shinning Needle Caste | -132 91 763
 secret	|		 	579 90 -231
 Higan 	|			-2172 100 -412
+Gap realm | 625 58 -217
+The Gap | 596 101 -213
+Human village | 78 70 -124
+Aki sister farm | -1309 79 -466
+shop along road of limitary |	-1757 69 -288
 
 # Go to The End first
 Location Name | Coordinates (X, Y, Z)
