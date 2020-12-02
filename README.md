@@ -35,7 +35,7 @@ the rocket 	|		-883 33 -816
 the real library |		-808 37 -897
 clock room 	|		-830 2 -1081
 SDM basement |			-742 91 -719
-strange place | -828 76 -728
+strange place (maybe Flan's Basement) | -828 76 -728
 		
 		
 ### Misc
